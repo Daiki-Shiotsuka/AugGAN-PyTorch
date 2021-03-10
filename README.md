@@ -2,7 +2,7 @@
 
 # SemSeg_CycleGAN
 
-<a href="https://ieeexplore.ieee.org/abstract/document/8950077">Sem-GAN: Semantically-Consistent Image-to-Image Translation</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/8950077">GAN-Based Day-to-Night Image Style Transfer for Nighttime Vehicle Detection</a>
 
 
 note<br>
