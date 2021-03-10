@@ -3,7 +3,7 @@
 # SemSeg_CycleGAN
 
 <a href="https://ieeexplore.ieee.org/abstract/document/8950077">Sem-GAN: Semantically-Consistent Image-to-Image Translation</a>
-<img width="170" alt="s" src="https://user-images.githubusercontent.com/64032115/109528235-f1f8de00-7a60-11eb-88f0-86420de17b75.png">
+
 
 note<br>
 I'm not author of this paper.<br>
