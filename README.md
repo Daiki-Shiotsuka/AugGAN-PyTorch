@@ -4,7 +4,7 @@
 
 
 note<br>
-I'm not author of this paper.<br>
+I'm not a author of this paper.<br>
 If you this program, please check this code with your eyes.<br>
 
 //Trainig<br>
