@@ -7,10 +7,13 @@ note<br>
 I'm not a author of this paper.<br>
 If you use this program, please check this code with your eyes.<br>
 
-//Trainig<br>
-python train.py --dataset_name dataset_name<br>
-
-//Test<br>
-python test.py --dataset_name dataset_name<br>
+## Training
+```bash
+python train.py --dataset_name dataset_name
+```
+## Test
+```bash
+python test.py --dataset_name dataset_name
+```
 
 #dataset_name is a dataset name you use.
